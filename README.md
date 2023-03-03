@@ -18,3 +18,9 @@ STEPS
 7.Explore and visualize the data to gain insights
 
 8.Setting the alpha option to 0.1 makes it much easier to visualize the places where there is a high density of data points
+
+9.Looking for correlations 
+
+10. from pandas.plotting import scatter_matrix 
+
+
